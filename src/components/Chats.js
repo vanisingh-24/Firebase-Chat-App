@@ -1,10 +1,10 @@
-import React, { useRef, useState, useEffect } from 'react';
+import React, { useState, useEffect } from 'react';
 import { useHistory } from 'react-router-dom';
 import { ChatEngine } from 'react-chat-engine';
 import {auth} from '../firebase';
 
+import axios from 'axios';
 import { useAuth } from '../contexts/AuthContext';
-import { DiffFilled } from '@ant-design/icons';
 
 const Chats = () => {
     const history = useHistory();
