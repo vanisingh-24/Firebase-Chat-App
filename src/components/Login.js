@@ -8,7 +8,7 @@ const Login = () => {
   return (
     <div id="login-page">
       <div id="login-card">
-        <h2> Welcome to Unichat! </h2>
+        <h2> Welcome to Chatify! </h2>
         <div
           className="login-button google"
           onClick={() =>

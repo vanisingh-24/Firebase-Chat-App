@@ -47,7 +47,7 @@
 /* Login Page */
 
 #login-page {
-  background-image: linear-gradient(#40a9ff, #096dd9);
+  background-image: linear-gradient(#40a9ff, #50C878);
   position: absolute;
   top: 0px;
   bottom: 0px;
@@ -77,10 +77,10 @@
 
 .facebook {
   background-color: #3b5998;
-}
+} 
 
 .google {
-  background-color: #4285f4;
+  background-color: #2AAA8A;
   color: white;
 }
 
