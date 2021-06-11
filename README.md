@@ -15,7 +15,7 @@ This is a real-time chat application build using React.js, Firebase and React ch
 Step1 - Clone this repository using:
 
 ```
-$ git clone https://github.com/sagarmude7/UniChat.git
+$ git clone https://github.com/vanisingh-24/Firebase-Chat-App.git
 ```
 
 Step2 - Install the dependencies:
