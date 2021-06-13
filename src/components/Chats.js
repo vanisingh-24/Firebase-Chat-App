@@ -67,7 +67,7 @@ const Chats = () => {
     <div className="chats-page">
       <div className="nav-bar">
         <div className="logo-tab">Chatify</div>
-        <div onClick={handleLogout} className="logout-tab">
+        <div onClick={handleLogout} style={{ marginRight: "150px"}} className="logout-tab">
           Logout
         </div>
       </div>
