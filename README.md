@@ -24,9 +24,9 @@ Step2 - Install the dependencies:
 npm install
 ```
 
-Step4 - Create a .env file
+Step3 - Create a .env file
 
-Step5-
+Step4-
 Now you can run the app on localhost:3000 using:
 
 ```
